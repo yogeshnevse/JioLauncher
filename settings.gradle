@@ -1,0 +1,3 @@
+include ':JioLauncherlibrary'
+include ':app'
+rootProject.name = "Jio Launcher"
